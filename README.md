@@ -20,16 +20,8 @@ dataset
         cow   
 
 ##
-Training Classes: 
-spider
-horse
-elephant
-cow
-------------
-##
-Validation Classes: 
-spider
-horse
-elephant
-cow
+Training Classes: spider/ horse/ elephant/ cow
 
+##
+Validation Classes: spider/ horse/ elephant/ cow
+------------
