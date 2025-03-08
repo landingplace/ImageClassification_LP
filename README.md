@@ -6,7 +6,8 @@ DATA_ROOT: str = r"/kaggle/input/opencv-tf-project-1-image-classification-round-
 
 ### Folder Structure 
 dataset 
-#    Valid   
+#    
+    Valid   
         spider  
         horse   
         elephant
